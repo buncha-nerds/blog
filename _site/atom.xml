@@ -4,7 +4,7 @@
  <title>Poole</title>
  <link href="http://getpoole.com/atom.xml" rel="self"/>
  <link href="http://getpoole.com/"/>
- <updated>2015-09-24T12:49:22-04:00</updated>
+ <updated>2015-09-24T13:08:29-04:00</updated>
  <id>http://getpoole.com</id>
  <author>
    <name>Mark Otto</name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Introducing Poole</title>
-   <link href="http://getpoole.com/2014/01/02/introducing-poole/"/>
+   <link href="http://getpoole.com/blog/2014/01/02/introducing-poole.html"/>
    <updated>2014-01-02T00:00:00-05:00</updated>
-   <id>http://getpoole.com/2014/01/02/introducing-poole</id>
+   <id>http://getpoole.com/blog/2014/01/02/introducing-poole</id>
    <content type="html">&lt;p&gt;&lt;em&gt;The Strange Case of Dr. Jekyll and Mr. Hyde&lt;/em&gt; tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel’s supporting cast is a man by the name of Mr. Poole, Dr. Jekyll’s loyal butler.&lt;/p&gt;
 
 &lt;hr /&gt;
@@ -61,9 +61,9 @@
  
  <entry>
    <title>Example content</title>
-   <link href="http://getpoole.com/2014/01/01/example-content/"/>
+   <link href="http://getpoole.com/blog/2014/01/01/example-content.html"/>
    <updated>2014-01-01T00:00:00-05:00</updated>
-   <id>http://getpoole.com/2014/01/01/example-content</id>
+   <id>http://getpoole.com/blog/2014/01/01/example-content</id>
    <content type="html">&lt;div class=&quot;message&quot;&gt;
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
 &lt;/div&gt;
@@ -240,9 +240,9 @@
  
  <entry>
    <title>What's Jekyll?</title>
-   <link href="http://getpoole.com/2013/12/31/whats-jekyll/"/>
+   <link href="http://getpoole.com/blog/2013/12/31/whats-jekyll.html"/>
    <updated>2013-12-31T00:00:00-05:00</updated>
-   <id>http://getpoole.com/2013/12/31/whats-jekyll</id>
+   <id>http://getpoole.com/blog/2013/12/31/whats-jekyll</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/jekyll/jekyll/blob/master/README.markdown&quot;&gt;the project’s readme&lt;/a&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
