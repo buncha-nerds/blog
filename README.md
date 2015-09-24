@@ -1,6 +1,6 @@
 # Writing Posts
 
-[How to create new posts with Jekyll](https://jekyllrb.com/docs/posts/])
+[How to create new posts with Jekyll](https://jekyllrb.com/docs/posts)
 
 # Created with Poole/Jekyll
 
