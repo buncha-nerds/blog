@@ -7,9 +7,9 @@ relative_permalinks: true
 # Setup
 title:               Poole
 tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+url:                 http://buncha-nerds.github.io
 paginate:            1
-baseurl:             ""
+baseurl:             "http://buncha-nerds.github.io"
 
 # Assets
 #
