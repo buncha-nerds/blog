@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Poole</title>
- <link href="http://getpoole.comhttp://buncha-nerds.github.io/blog//atom.xml" rel="self"/>
- <link href="http://getpoole.comhttp://buncha-nerds.github.io/blog//"/>
- <updated>2015-09-24T13:22:42-04:00</updated>
+ <link href="http://getpoole.comhttp://buncha-nerds.github.io/blog/atom.xml" rel="self"/>
+ <link href="http://getpoole.comhttp://buncha-nerds.github.io/blog/"/>
+ <updated>2015-09-24T13:25:09-04:00</updated>
  <id>http://getpoole.com</id>
  <author>
    <name>Mark Otto</name>
@@ -14,7 +14,7 @@
  
  <entry>
    <title>Introducing Poole</title>
-   <link href="http://getpoole.comhttp://buncha-nerds.github.io/blog//2014/01/02/introducing-poole/"/>
+   <link href="http://getpoole.comhttp://buncha-nerds.github.io/blog/2014/01/02/introducing-poole/"/>
    <updated>2014-01-02T00:00:00-05:00</updated>
    <id>http://getpoole.com/2014/01/02/introducing-poole</id>
    <content type="html">&lt;p&gt;&lt;em&gt;The Strange Case of Dr. Jekyll and Mr. Hyde&lt;/em&gt; tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel’s supporting cast is a man by the name of Mr. Poole, Dr. Jekyll’s loyal butler.&lt;/p&gt;
@@ -37,7 +37,7 @@
 &lt;p&gt;Poole is a streamlined Jekyll site designed and built as a foundation for building more meaningful themes. Poole, and every theme built on it, includes the following:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Complete Jekyll setup included (layouts, config, &lt;a href=&quot;http://buncha-nerds.github.io/blog//404.html&quot;&gt;404&lt;/a&gt;, &lt;a href=&quot;http://buncha-nerds.github.io/blog//atom.xml&quot;&gt;RSS feed&lt;/a&gt;, posts, and &lt;a href=&quot;http://buncha-nerds.github.io/blog//about&quot;&gt;example page&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Complete Jekyll setup included (layouts, config, &lt;a href=&quot;http://buncha-nerds.github.io/blog/404.html&quot;&gt;404&lt;/a&gt;, &lt;a href=&quot;http://buncha-nerds.github.io/blog/atom.xml&quot;&gt;RSS feed&lt;/a&gt;, posts, and &lt;a href=&quot;http://buncha-nerds.github.io/blog/about&quot;&gt;example page&lt;/a&gt;)&lt;/li&gt;
   &lt;li&gt;Mobile friendly design and development&lt;/li&gt;
   &lt;li&gt;Easily scalable text and component sizing with &lt;code&gt;rem&lt;/code&gt; units in the CSS&lt;/li&gt;
   &lt;li&gt;Support for a wide gamut of HTML elements&lt;/li&gt;
@@ -61,7 +61,7 @@
  
  <entry>
    <title>Example content</title>
-   <link href="http://getpoole.comhttp://buncha-nerds.github.io/blog//2014/01/01/example-content/"/>
+   <link href="http://getpoole.comhttp://buncha-nerds.github.io/blog/2014/01/01/example-content/"/>
    <updated>2014-01-01T00:00:00-05:00</updated>
    <id>http://getpoole.com/2014/01/01/example-content</id>
    <content type="html">&lt;div class=&quot;message&quot;&gt;
@@ -240,7 +240,7 @@
  
  <entry>
    <title>What's Jekyll?</title>
-   <link href="http://getpoole.comhttp://buncha-nerds.github.io/blog//2013/12/31/whats-jekyll/"/>
+   <link href="http://getpoole.comhttp://buncha-nerds.github.io/blog/2013/12/31/whats-jekyll/"/>
    <updated>2013-12-31T00:00:00-05:00</updated>
    <id>http://getpoole.com/2013/12/31/whats-jekyll</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/jekyll/jekyll/blob/master/README.markdown&quot;&gt;the project’s readme&lt;/a&gt;:&lt;/p&gt;
