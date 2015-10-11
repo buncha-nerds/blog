@@ -5,9 +5,9 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               Buncha Nerds
+tagline:             Just a bunch of nerds.
+url:                 http://buncha-nerds.com
 paginate:            1
 baseurl:             "http://buncha-nerds.github.io/blog"
 
